@@ -4,7 +4,20 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+A clean and intuitive Flutter Notes app that stores notes locally using SQLite and syncs them to Firebase Firestore when internet is available. Built to demonstrate offline-first architecture and real-time data synchronization.
+
+🚀 Features
+✍️ Add, edit, and delete notes
+
+📶 Offline-first architecture with local SQLite database
+
+☁️ Firebase Firestore sync for online backup
+
+🔄 Auto-sync when device regains connectivity
+
+🌙 Dark theme user interface
+
+🧠 Simple and efficient architecture (MVC + Services)
 
 A few resources to get you started if this is your first Flutter project:
 
