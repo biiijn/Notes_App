@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "913419802022",
+    "project_id": "cmfsffg",
+    "storage_bucket": "cmfsffg.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913419802022:android:986970adeb821d681ceb67",
+        "android_client_info": {
+          "package_name": "com.example.task7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_BElpY5C1s_JuBf9X1PjxdBCx8hm-mIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
